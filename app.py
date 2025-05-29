@@ -9,8 +9,6 @@ st.title("AI Wycena Samochodu")
 st.write("Wprowadź dane pojazdu, aby uzyskać szacunkową cenę rynkową.")
 
 
-
-
 with st.form("car_form"):
     col1, col2 = st.columns(2)
 
