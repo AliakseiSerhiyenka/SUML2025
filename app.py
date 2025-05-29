@@ -67,7 +67,7 @@ if submitted:
         st.error(f"Wystąpił błąd podczas predykcji: {e}")
 
 
-st.sidebar.header("O aplikacji")
+st.sidebar.header("O aplikacji ")
 st.sidebar.write("""
 Aplikacja wykorzystuje model AI (AutoGluon), który analizuje dane techniczne pojazdu 
 i przewiduje jego wartość rynkową.
